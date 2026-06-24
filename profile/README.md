@@ -5,11 +5,11 @@
 
 ---
 
-We're building the infrastructure for enterprises to deploy AI that actually works—safely, privately, and without the vendor lock-in.
+We're building the infrastructure for business memories.
 
 ## The problem
 
-Most organizations are stuck. They want AI. They need AI. But the path forward is a maze of compliance nightmares, data sovereignty concerns, and tools that weren't built for how real companies actually operate.
+AI today is smart, but forgetful. Like Leonard Shelby from Memento. Lethal but temporally broken. 
 
 We're fixing that.
 
@@ -28,10 +28,14 @@ The work is hard. The problems are real. The impact is immediate.
 ## Open roles
 
 We're always looking for engineers who:
+
 - Build systems that don't fall over at 3am
-- Think security and privacy are features, not afterthoughts  
-- Get unreasonably excited about making complex things simple
+- Believe math and emotions are connected  
+- Get unreasonably excited about simplify complex things
+- Observe how things work in the nature
+
+[https://achiral.ai/career](https://achiral.ai/careers)
 
 ---
 
-**info@achiral.ai**
+
