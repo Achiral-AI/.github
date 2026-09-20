@@ -27,17 +27,12 @@
 
 Start here if you want to inspect what we build in public.
 
-| Repository | What it is |
-| --- | --- |
-| [`harp`](https://github.com/Achiral-AI/harp) | Local-first inference shim for Warp's native agent, with Ollama, vLLM, LM Studio, LiteLLM, and frontier API fallback. |
-| [`cognoscenti`](https://github.com/Achiral-AI/cognoscenti) | Benchmark for cognitive memory systems. |
-
-Public forks and ecosystem work:
-[`spark-vllm-docker`](https://github.com/Achiral-AI/spark-vllm-docker) |
-[`jentic-one`](https://github.com/Achiral-AI/jentic-one) |
-[`headroom`](https://github.com/Achiral-AI/headroom) |
-[`weaviate`](https://github.com/Achiral-AI/weaviate) |
-[`lancedb`](https://github.com/Achiral-AI/lancedb)
+| Repository | What it is | License |
+| --- | --- | --- |
+| [`Chiro`](https://github.com/Achiral-AI/Chiro) | Official TypeScript SDK for the Achiral Memory API. | Apache-2.0 |
+| [`cognoscenti`](https://github.com/Achiral-AI/cognoscenti) | Benchmark for trustworthy AI memory. | Apache-2.0 |
+| [`Founder`](https://github.com/Achiral-AI/Founder) | Composable editorial skills for founder writing. | MIT |
+| [`harp`](https://github.com/Achiral-AI/harp) | Local-first inference shim for Warp's native agent, with Ollama, vLLM, LM Studio, LiteLLM, and frontier API fallback. | AGPL-3.0-or-later |
 
 ## What We Are Building
 
