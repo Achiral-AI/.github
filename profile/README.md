@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://achiral.ai">
-    <img src="./achiral.svg" alt="Achiral AI" width="132" />
+    <img src="./achiral.svg" alt="Achiral" width="132" />
   </a>
 </p>
 
-<h1 align="center">Achiral AI</h1>
+<h1 align="center">Achiral</h1>
 
 <p align="center">
   Infrastructure for business memories.
@@ -14,6 +14,7 @@
   <a href="https://achiral.ai">Website</a>
   &middot; <a href="https://achiral.ai/careers">Careers</a>
   &middot; <a href="https://discord.gg/eJYv86cEJ">Discord</a>
+  &middot; <a href="https://bsky.app/profile/achiral.ai">Bluesky</a>
   &middot; <a href="https://achiral.ai/docs">Docs</a>
   &middot; <a href="https://achiral.ai/blog">Blog</a>
   &middot; <a href="https://achiral.ai/concepts">Concepts</a>
